@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6h0035/t/v1/juan/0
+seq: 0
+front:
+  text: 寶髻經四法憂波提舍翻譯之記寶髻經者是大集中之一集也其宗四法玄深奧密天親菩薩略開其門是故名為憂波提舍聖自在力行之彼古時人處會出於此今興和三年歲次辛酉九月朔旦庚午之日烏萇國人剎利王種三藏法師毗目智仙中天竺國婆羅門人瞿曇流支護法大士魏驃騎大將軍開府儀同三司御史中尉勃海高仲密愛法之人沙門曇林道俗相假於鄴城內金華寺譯四千九百九十七字
+  hash: sha256:2394842f3b331f5285bb85bed2b74e4845fb6cf9d2009aa11aabbc54336d06bc
+  markers:
+  - {type: 序, offset: 0, content: 四法憂波提舍飜譯之記, id: KR6h0035_T_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 寶髻經四法憂波提舍
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1526.xml
+    old_id: T26n1526
+hash: sha256:7b25098a5d68ff9082c582af5145739cf00755783f3b82f935645f4e431c7f01
