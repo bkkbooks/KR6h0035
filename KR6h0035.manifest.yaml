@@ -33,11 +33,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6h0035_000.yaml, hash: 'sha256:7b25098a5d68ff9082c582af5145739cf00755783f3b82f935645f4e431c7f01'}
-  - {seq: 1, filename: KR6h0035_001.yaml, hash: 'sha256:6627bcecfa00558fa4b4029b7264918c5fa8476acba4d29e023fc808c8dafa9c'}
+  - {seq: 0, filename: KR6h0035_000.yaml, hash: 'sha256:b170dd7cd63dd38092ea06aae8ac0b3be2707cf53c08a3bacd93a34f39850a1f'}
+  - {seq: 1, filename: KR6h0035_001.yaml, hash: 'sha256:8e9b97f0d053535d337688477d6f2756e6cbf13982e046f674da6f434e22777d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6h0035_000.markers.yaml, hash: 'sha256:74f7e04854bd1ec077f4400694e4ffab31f9e673e0847098342daaaa945ba2e4'}
-  - {seq: 1, role: markers, filename: assets/KR6h0035_001.markers.yaml, hash: 'sha256:0df003cfdb6998714cd8f508ba99697fc057d2ea257491e7b8cfa391647c3ff6'}
+  - {seq: 0, role: markers, filename: assets/KR6h0035_000.markers.yaml, hash: 'sha256:894d210f95fef07aed4be9aefcea78f3ae238243c0bc84e41402f6fb2eea4afb'}
+  - {seq: 1, role: markers, filename: assets/KR6h0035_001.markers.yaml, hash: 'sha256:fdd178b773707b8cb32821a9d38e1338868339ded1e5534b1b159e3f6e8351c7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -59,7 +59,4 @@ table_of_contents:
   label: 寶髻經四法憂波提舍一卷
   type: juan
   level: 1
-hash: sha256:10662d952792c0c87a1a3deac33df02546402fa95bce76afec4d828316c1119f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:aa4be04be5e46503acb2e2d4350fee06b4bed72413cf4fcd25b373d9651ee680
