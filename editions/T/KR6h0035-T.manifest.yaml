@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6h0035_000-T.yaml, hash: 'sha256:b170dd7cd63dd38092ea06aae8ac0b3be2707cf53c08a3bacd93a34f39850a1f'}
+  - {seq: 0, filename: KR6h0035_000-T.yaml, hash: 'sha256:6cb0b626b2def3cf5f3b7436af68bbd25025409663dbb7b4facd906ffa271b14'}
   - {seq: 1, filename: KR6h0035_001-T.yaml, hash: 'sha256:8e9b97f0d053535d337688477d6f2756e6cbf13982e046f674da6f434e22777d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6h0035_000-T.markers.yaml, hash: 'sha256:301d1bd319e7bf5f714899685c2d97759f170ce570da86f96d23ce78edb1854f'}
+  - {seq: 0, role: markers, filename: assets/KR6h0035_000-T.markers.yaml, hash: 'sha256:18a359200d03874b9498177f0fd84a61b164dfa36d150269585ff81e4486259b'}
   - {seq: 1, role: markers, filename: assets/KR6h0035_001-T.markers.yaml, hash: 'sha256:f1b2fbbfc4e5877c8e36d8e1c44e88ffb60863b5d558c75f67107d203017e37c'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6h0035_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 四法憂波提舍飜譯之記
@@ -45,4 +45,4 @@ table_of_contents:
   label: 寶髻經四法憂波提舍一卷
   type: juan
   level: 1
-hash: sha256:b34537336941738f8d83db332b853eb1c5b5a2cd323e918b9ba4f3db42d1eae8
+hash: sha256:2bff5b9f0d7dd03f5c070cf168fb3a007ff08cf09dd90d7f9b8607c255be01e0

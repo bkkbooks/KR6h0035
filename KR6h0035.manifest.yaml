@@ -33,17 +33,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6h0035_000.yaml, hash: 'sha256:7b25098a5d68ff9082c582af5145739cf00755783f3b82f935645f4e431c7f01'}
+  - {seq: 0, filename: KR6h0035_000.yaml, hash: 'sha256:be68c1040d9c686cb183ac4eddaf6a52e935d0aafb92efb0ce9dc7d1cb34c07b'}
   - {seq: 1, filename: KR6h0035_001.yaml, hash: 'sha256:bc93ee4597359a0d5d84c5f97b9668482f553d0f618958eb3068d82a8bfab6a7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6h0035_000.markers.yaml, hash: 'sha256:596a102b6d89c60c85c3b26827658e39a109e3348bccd2823dc1384a91572d49'}
+  - {seq: 0, role: markers, filename: assets/KR6h0035_000.markers.yaml, hash: 'sha256:729faf108f8d69f0eace5177438b597ad817d843db161d82092012a655683a88'}
   - {seq: 1, role: markers, filename: assets/KR6h0035_001.markers.yaml, hash: 'sha256:bd1576b6479a0fbe4b5a1b399ce28724a96d160ee15b2890dd8165d44c50dcfc'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6h0035_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 四法憂波提舍飜譯之記
@@ -59,7 +59,7 @@ table_of_contents:
   label: 寶髻經四法憂波提舍一卷
   type: juan
   level: 1
-hash: sha256:cf99f4d5a7fc1ff4134261404819ed77b5a6f3744a2f113de82b0f340ef057f4
+hash: sha256:88af3b0d7cf980d0b933c266820a2d82041321176eeec08aaf86b5c9980f2bea
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
